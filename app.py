@@ -631,7 +631,7 @@ elif page == "🔮 Predict Churn":
 # MODEL PERFORMANCE
 # ==============================================
 
-elif page == " Model Performance":
+elif page == "🤖 Model Performance":
 
     st.title("🤖 Model Performance")
 
